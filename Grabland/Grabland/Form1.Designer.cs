@@ -113,6 +113,7 @@
             // 
             // groupBox1
             // 
+            this.groupBox1.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.groupBox1.Location = new System.Drawing.Point(12, 97);
             this.groupBox1.Name = "groupBox1";
             this.groupBox1.Size = new System.Drawing.Size(604, 560);
@@ -122,9 +123,10 @@
             // lbred
             // 
             this.lbred.AutoSize = true;
+            this.lbred.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.lbred.Location = new System.Drawing.Point(27, 676);
             this.lbred.Name = "lbred";
-            this.lbred.Size = new System.Drawing.Size(30, 15);
+            this.lbred.Size = new System.Drawing.Size(43, 21);
             this.lbred.TabIndex = 12;
             this.lbred.Text = "Red:";
             // 
@@ -143,9 +145,11 @@
             this.rb_red.AutoSize = true;
             this.rb_red.BackColor = System.Drawing.Color.Red;
             this.rb_red.Checked = true;
+            this.rb_red.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.rb_red.ForeColor = System.Drawing.Color.White;
             this.rb_red.Location = new System.Drawing.Point(53, 61);
             this.rb_red.Name = "rb_red";
-            this.rb_red.Size = new System.Drawing.Size(42, 19);
+            this.rb_red.Size = new System.Drawing.Size(53, 25);
             this.rb_red.TabIndex = 14;
             this.rb_red.TabStop = true;
             this.rb_red.Text = "red";
@@ -155,9 +159,11 @@
             // 
             this.rb_green.AutoSize = true;
             this.rb_green.BackColor = System.Drawing.Color.Green;
+            this.rb_green.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.rb_green.ForeColor = System.Drawing.Color.White;
             this.rb_green.Location = new System.Drawing.Point(152, 61);
             this.rb_green.Name = "rb_green";
-            this.rb_green.Size = new System.Drawing.Size(55, 19);
+            this.rb_green.Size = new System.Drawing.Size(72, 25);
             this.rb_green.TabIndex = 15;
             this.rb_green.Text = "green";
             this.rb_green.UseVisualStyleBackColor = false;
@@ -165,9 +171,10 @@
             // lb_green
             // 
             this.lb_green.AutoSize = true;
+            this.lb_green.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.lb_green.Location = new System.Drawing.Point(172, 676);
             this.lb_green.Name = "lb_green";
-            this.lb_green.Size = new System.Drawing.Size(41, 15);
+            this.lb_green.Size = new System.Drawing.Size(59, 21);
             this.lb_green.TabIndex = 16;
             this.lb_green.Text = "Green:";
             // 

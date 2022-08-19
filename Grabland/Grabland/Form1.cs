@@ -16,7 +16,7 @@ namespace Grabland
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            MessageBox.Show("！！！！！！女儿生日快乐！！！！！");
+            MessageBox.Show("！！！！！！爸爸祝女儿EVA生日快乐！！！！！");
             //pcCanvs.Height = Row + 2 * Row;
             //pcCanvs.Width = colums + 2 * Row;
         }       

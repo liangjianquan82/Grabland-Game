@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\my_c#_code\\Grabland\\Grabland\\Grabland.csproj": {}
+    "D:\\my_c#_code\\Grabland-Game\\Grabland\\Grabland\\Grabland.csproj": {}
   },
   "projects": {
-    "D:\\my_c#_code\\Grabland\\Grabland\\Grabland.csproj": {
+    "D:\\my_c#_code\\Grabland-Game\\Grabland\\Grabland\\Grabland.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\my_c#_code\\Grabland\\Grabland\\Grabland.csproj",
+        "projectUniqueName": "D:\\my_c#_code\\Grabland-Game\\Grabland\\Grabland\\Grabland.csproj",
         "projectName": "Grabland",
-        "projectPath": "D:\\my_c#_code\\Grabland\\Grabland\\Grabland.csproj",
+        "projectPath": "D:\\my_c#_code\\Grabland-Game\\Grabland\\Grabland\\Grabland.csproj",
         "packagesPath": "C:\\Users\\liang\\.nuget\\packages\\",
-        "outputPath": "D:\\my_c#_code\\Grabland\\Grabland\\obj\\",
+        "outputPath": "D:\\my_c#_code\\Grabland-Game\\Grabland\\Grabland\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
