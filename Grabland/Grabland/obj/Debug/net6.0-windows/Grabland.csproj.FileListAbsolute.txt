@@ -1,0 +1,17 @@
+D:\my_c#_code\Grabland\Grabland\bin\Debug\net6.0-windows\Grabland.exe
+D:\my_c#_code\Grabland\Grabland\bin\Debug\net6.0-windows\Grabland.deps.json
+D:\my_c#_code\Grabland\Grabland\bin\Debug\net6.0-windows\Grabland.runtimeconfig.json
+D:\my_c#_code\Grabland\Grabland\bin\Debug\net6.0-windows\Grabland.dll
+D:\my_c#_code\Grabland\Grabland\bin\Debug\net6.0-windows\Grabland.pdb
+D:\my_c#_code\Grabland\Grabland\obj\Debug\net6.0-windows\Grabland.csproj.AssemblyReference.cache
+D:\my_c#_code\Grabland\Grabland\obj\Debug\net6.0-windows\Grabland.Form1.resources
+D:\my_c#_code\Grabland\Grabland\obj\Debug\net6.0-windows\Grabland.csproj.GenerateResource.cache
+D:\my_c#_code\Grabland\Grabland\obj\Debug\net6.0-windows\Grabland.GeneratedMSBuildEditorConfig.editorconfig
+D:\my_c#_code\Grabland\Grabland\obj\Debug\net6.0-windows\Grabland.AssemblyInfoInputs.cache
+D:\my_c#_code\Grabland\Grabland\obj\Debug\net6.0-windows\Grabland.AssemblyInfo.cs
+D:\my_c#_code\Grabland\Grabland\obj\Debug\net6.0-windows\Grabland.csproj.CoreCompileInputs.cache
+D:\my_c#_code\Grabland\Grabland\obj\Debug\net6.0-windows\Grabland.dll
+D:\my_c#_code\Grabland\Grabland\obj\Debug\net6.0-windows\refint\Grabland.dll
+D:\my_c#_code\Grabland\Grabland\obj\Debug\net6.0-windows\Grabland.pdb
+D:\my_c#_code\Grabland\Grabland\obj\Debug\net6.0-windows\Grabland.genruntimeconfig.cache
+D:\my_c#_code\Grabland\Grabland\obj\Debug\net6.0-windows\ref\Grabland.dll
