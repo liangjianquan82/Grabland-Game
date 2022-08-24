@@ -180,7 +180,7 @@ namespace Grabland
         {
             //生成游戏的行列内容，并在界面展示按键。
             Row = Convert.ToInt32(tbrow.Text);
-            colums = Convert.ToInt32(tbrow.Text);          
+            colums = Convert.ToInt32(tbcol.Text);          
             addbutton();
             btstart.Enabled = false;
         }

@@ -67,7 +67,6 @@
             // 
             this.tbrow.Location = new System.Drawing.Point(53, 20);
             this.tbrow.Name = "tbrow";
-            this.tbrow.ReadOnly = true;
             this.tbrow.Size = new System.Drawing.Size(100, 23);
             this.tbrow.TabIndex = 3;
             this.tbrow.Tag = "Max 30";
@@ -77,7 +76,6 @@
             // 
             this.tbcol.Location = new System.Drawing.Point(241, 20);
             this.tbcol.Name = "tbcol";
-            this.tbcol.ReadOnly = true;
             this.tbcol.Size = new System.Drawing.Size(100, 23);
             this.tbcol.TabIndex = 4;
             this.tbcol.Tag = "Max 30";
